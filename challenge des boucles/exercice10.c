@@ -15,7 +15,7 @@ int main()
         }
             s = s+n;
     }
-     printf("la somme est %d:",s);
+     printf("la somme est %d:\n",s);
      printf("le max est %d:",m);
   
      return 0;
