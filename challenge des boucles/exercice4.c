@@ -3,59 +3,27 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 int main() {
-	int n,max = 0,sum = 0;
+	int n, max = 0,sum = 0;
 	printf("entrer un nombre : ");
 	scanf("%d",&n);
 	while(n!=0)
 	{
-	    if(n>100)
+	   if(n>100 || n < 0)
 	    {
-	        printf("entrez un entier inferieur ou egal a 100");
-	    }
-	    else {
-	        
-	  
-	        sum = sum + n;
+	        printf("entrez un entier entre 0 et 100 \n");
+	    } 
+	  else if(n >0 && n<=100)
+	    {
 	          if(n>max)
-	             {
 	                  max = n;
-	       
-	              }     
-	    }
-    	scanf("%d",&n);
-    
+	                   sum = sum + n;
+	     }
+    	printf("entrer un nombre : ");
+ 	    scanf("%d",&n);
     }
-      	printf("le max est : %d \n",max);
+    	printf("le max est : %d \n",max);
         printf("la somme est : %d \n",sum);
-    
-		return 0;
+      
+    	return 0;
 	}
-
-
-/*int main() {
-	int i,n,max = 0,sum = 0;
-	for(i=0;i<=100;i++)
-	{
-	printf("entrer un nombre : ");
-	scanf("%d",&n);
-	if(n < 0 || n > 100)
-	{
-	printf("entre un nombre entre 0 et 100 \n");
-	}
-	  else if(n%10 == 0)
-	{
-	    sum = sum + n;
-	    if(n>max)
-	    {
-	        max = n;
-	       
-	    }
-	}	 
-    }
-    printf("le max est : %d \n",max);
-    printf("la somme est : %d \n",sum);
-    
-		return 0;
-	}*/
-
 
