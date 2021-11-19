@@ -10,9 +10,13 @@ int main()
     	if(n%2 == 0)
     {
         printf("le nombre n'pas premier");
+        return 0;
+    
     }
     else
-       printf(" le nombre est premier");  
+       printf("le nombre est premier"); 
+	   return 0; 
+       
     
 	}
 	if(n==2||n==0)
