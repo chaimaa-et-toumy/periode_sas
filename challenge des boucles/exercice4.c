@@ -12,15 +12,15 @@ int main() {
 	    {
 	        printf("entrez un entier entre 0 et 100 \n");
 	    } 
-	  else if(n >0 && n<=100)
+	   else if(n >0 && n<=100)
 	    {
 	          if(n>max)
 	                  max = n;
 	                   sum = sum + n;
 	     }
-    	printf("entrer un nombre : ");
- 	    scanf("%d",&n);
-    }
+    	     printf("entrer un nombre : ");
+ 	     scanf("%d",&n);
+         }
     	printf("le max est : %d \n",max);
         printf("la somme est : %d \n",sum);
       
