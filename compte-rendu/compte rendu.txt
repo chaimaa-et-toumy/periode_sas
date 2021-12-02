@@ -21,6 +21,28 @@ les message d'error et aussi la diffinition de DNS et adresse ip et server .
 ainsi que la différence entre page web , server web navigateur web , moteur de recherche.
 et Ensuite, nous avons discuté des activités liées aux compétences
 Ce que nous obtenons la première année
+											       Le 02 decemebre 2021
+
+                                       		    compte rendu
+
+Bonsoir Monsieur Youssef,
+Aujourd'hui,
+j'ai documenté sur html "hyper text markup language" est un Langage de balisage utilisé pour la création de pages web,
+css "cascading style sheet" correspond à un langage informatique permettant de mettre en forme des pages web (HTML ou XML),
+les versions du html html html 2.0 html 3.2 Xhtml html 5.
+types de balisage j'ai trouvé huit balise et ils sont : 
+ 	*balise de formailaire : <form> , <input> , <label>
+	*balise de tableaux : <table>,<tr>,<td>,<th>
+	*balise de liste : <ul> <li>
+	*balise de 1er niveau : head && body && html => head && body.
+	*balise en tete : <meta>,<title>,<link>
+	*balise de structeration du text : <strong>,<h1>---<h6>,<p>...
+	*balise Sectionnante : <header>,<footer>,<section>,<article>
+	*balise generique : <div>,<span>
+En plus de l'histoire du HTML, qui a été inventé en 1991 par Tim Berners-Lee . et le w3c -The World Wide Web Consortium-
+Ce validateur vérifie la validité du balisage de Web et enfin nous avons effectué quiz sur le fonctionnement d'internet.
+
+
 
 
 Respectueusement,
