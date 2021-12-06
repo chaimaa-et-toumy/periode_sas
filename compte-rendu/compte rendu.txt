@@ -42,6 +42,20 @@ types de balisage j'ai trouvé huit balise et ils sont :
 En plus de l'histoire du HTML, qui a été inventé en 1991 par Tim Berners-Lee . et le w3c -The World Wide Web Consortium-
 Ce validateur vérifie la validité du balisage de Web et enfin nous avons effectué quiz sur le fonctionnement d'internet.
 
+			     								      Le 06 decemebre 2021
+
+                                       		    compte rendu
+
+Bonsoir Monsieur Youssef,
+Aujourd'hui,
+j'ai documenté sur media query qui rend le site réactif et adapté à tous les écrans Après cela, 
+je suis passé à flexbox qui s'applique à deux element :
+*parent element comme (display, flex-direction ,flex-wrap , flex-flow , justifier-content et align centre ) et 
+*child element .
+et un petit documentation sur page accessible . Après j'ai fait un quiz sur html et css et la première étape du 
+troisième brief.
+
+
 
 
 
