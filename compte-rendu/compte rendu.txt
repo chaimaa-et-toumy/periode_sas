@@ -55,6 +55,17 @@ je suis passé à flexbox qui s'applique à deux element :
 et un petit documentation sur page accessible . Après j'ai fait un quiz sur html et css et la première étape du 
 troisième brief.
 
+			     								      Le 07 decemebre 2021
+
+                                       		    compte rendu
+
+Bonsoir Monsieur Youssef,
+Aujourd'hui j'ai terminé le troisième brief lié à la création d'une page web adaptable
+malgré qu'il y ait eu quelques erreurs (axe tool) mais j'ai finalement réussi à les corriger
+apres Nous avons également fait une activité de groupe avec Mme Asmaa sur la raison du choix de la programmation et Youcode 
+et sur les villes les plus importantes qui ont un marché du travail au Maroc.Et enfin, il y avait le live coding  pour certains 
+de nos collègues sur mobile first et seo ( l'ensemble des techniques qui visent à améliorer le positionnement d'une page, d'un site 
+ou d'une application web dans la page de résultats d'un moteur de recherche)
 
 
 
