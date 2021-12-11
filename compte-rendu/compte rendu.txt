@@ -62,8 +62,29 @@ malgré qu'il y ait eu quelques erreurs (axe tool) mais j'ai finalement réussi 
 apres Nous avons également fait une activité de groupe avec Mme Asmaa sur la raison du choix de la programmation et Youcode 
 et sur les villes les plus importantes qui ont un marché du travail au Maroc.Et enfin, il y avait le live coding  pour certains 
 de nos collègues sur mobile first et seo ( l'ensemble des techniques qui visent à améliorer le positionnement d'une page, d'un site 
-ou d'une application web dans la page de résultats d'un moteur de recherche)
+ou d'une application web dans la page de résultats d'un moteur de recherche).
 
+												le 8 decemebre 2021
+
+Nous avons commoncé la séance avec le daylé standUp pour me connaître l'avancement du classe sur les brief et la documentation, 
+j'ai passés au quatrième brief lié au "formulaire d'immobilié".J'ai d'abord commencé avec la documentation sur adobe xd
+Et comment l'utiliser  apres j'ai commoncé avec la réalisation d'une maquette avec Adobe xd Mobile et Desktop.
+
+
+												le 9 decemebre 2021
+
+Nous avons commoncé la séance avec le daylé standUp pour me connaître l'avancement du classe sur les brief et la documentation, 
+après j'ai codé les maquette avec HTML et CSS  j'ai utulise "Mobile first" par ce que  en effet lors du redimensionnement 
+de l'écran, bougent intelligemment pour s'adapter au mieux possible à l'écran de l'utilisateur et ainsi optimiser l'expérience
+utilisateur.
+
+												le 10 decemebre 2021
+
+Nous avons commoncé la séance avec le daylé standUp pour me connaître l'avancement du classe sur les brief et la documentation,
+J'ai commencé à code sur la partie desktop  apres j'ai finalisé le brief 4  partie mobile et desktop avec l'hébergement sur la
+plateforme netlify. Enfin, il y avait une présentation de nos collègues et un résumé de tout ce que nous avons vu cette semaine 
+de Pseudo-classes, Pseudo-élément, position (statique - absolute - relative - fixed - sticky) et la différence entre w absolute 
+et relative et entre fixed et sticky.
 
 
 
