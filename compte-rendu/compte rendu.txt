@@ -1,6 +1,6 @@
 												Le 30 Novembre 2021
 
-                                       		    compte rendu
+                                       		   journal de bord
 
 Bonsoir Monsieur Youssef,
 Aujourd'hui,
@@ -12,9 +12,7 @@ En plus des règles de classe avec les collègues, Puis nous sommes passés à l
 
 												Le 01 decemebre 2021
 
-                                       		    compte rendu
-
-Bonsoir Monsieur Youssef,
+                                       		   
 Aujourd'hui,
 Nous avons d'abord fait une activité sur le fonctionnement du Web . j'appris la différence entre web et internet,
 les message d'error et aussi la diffinition de DNS et adresse ip et server .
@@ -23,11 +21,10 @@ et Ensuite, nous avons discuté des activités liées aux compétences
 Ce que nous obtenons la première année
 											       Le 02 decemebre 2021
 
-                                       		    compte rendu
+                                       	
 
-Bonsoir Monsieur Youssef,
-Aujourd'hui,
-j'ai documenté sur html "hyper text markup language" est un Langage de balisage utilisé pour la création de pages web,
+
+j'ai documenté  aujourd hui sur html "hyper text markup language" est un Langage de balisage utilisé pour la création de pages web,
 css "cascading style sheet" correspond à un langage informatique permettant de mettre en forme des pages web (HTML ou XML),
 les versions du html html html 2.0 html 3.2 Xhtml html 5.
 types de balisage j'ai trouvé huit balise et ils sont : 
@@ -42,11 +39,11 @@ types de balisage j'ai trouvé huit balise et ils sont :
 En plus de l'histoire du HTML, qui a été inventé en 1991 par Tim Berners-Lee . et le w3c -The World Wide Web Consortium-
 Ce validateur vérifie la validité du balisage de Web et enfin nous avons effectué quiz sur le fonctionnement d'internet.
 
+
 			     								      Le 06 decemebre 2021
 
-                                       		    compte rendu
 
-Bonsoir Monsieur Youssef,
+
 Aujourd'hui,
 j'ai documenté sur media query qui rend le site réactif et adapté à tous les écrans Après cela, 
 je suis passé à flexbox qui s'applique à deux element :
@@ -57,7 +54,7 @@ troisième brief.
 
 			     								      Le 07 decemebre 2021
 
-                                       		    compte rendu
+                                       		
 
 Bonsoir Monsieur Youssef,
 Aujourd'hui j'ai terminé le troisième brief lié à la création d'une page web adaptable
