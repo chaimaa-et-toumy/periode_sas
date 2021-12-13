@@ -87,6 +87,22 @@ de Pseudo-classes, Pseudo-élément, position (statique - absolute - relative - 
 et relative et entre fixed et sticky.
 
 
+												le 14/12/2021
+							
+1 - Qu’est-ce qu’on a fait :
+Premièrement le brief 5 a été lancé et il est basé sur la fonction ''low fedility '' c'est à dire créé un site avec une méthode simple sans design et sans images .
+C'est été sous forme des lignes .... Après on a passé vers la 2 ème fonction c'est "high fedility" c'est à dire créé un site plus développé avec le design des 
+image et des couleurs . Pour les deux versions ( mobile et desktop) et Ui stylesheet.
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+Deuxièmement j'ai créé la maquette d'un site web par la version "high fedility" et "low fedility" du wiferam mobile et disktop et son stylesheet  .
+Après on a fait la validation des toix breif precedents.
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel : 
+ 
+on utiliser les wireframe pour  faciliter la communication Comme interface entre vous et les web designers, cet outil permet 
+à tout le monde de parler le même langage  Le wireframe facilite ainsi le travail d'équipe.
+
 
 Respectueusement,
 
