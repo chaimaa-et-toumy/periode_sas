@@ -103,6 +103,39 @@ Après on a fait la validation des toix breif precedents.
 on utiliser les wireframe pour  faciliter la communication Comme interface entre vous et les web designers, cet outil permet 
 à tout le monde de parler le même langage  Le wireframe facilite ainsi le travail d'équipe.
 
+												le 15/12/2021
+1 - Qu’est-ce qu’on a fait :
+finalisation du brief numero 5 et realisee le brief numero 6 "workflow" , documentation sur la methode agile scrum et comment ca 
+marche , creation de table scrum pour difinir les tache du projet
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+realisation d'une maquette high fedilite version mobile du breif numero 6 
+
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel : 
+ j'ai appris a utilise table scrum et division des tache 
+ 
+ 												le 16/12/2021
+1 - Qu’est-ce qu’on a fait :
+documentation sur le github flow et on a creer mini projet pour tester les commande sur le github flow .
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+Realisation d'une maquette high fedilite du page login version desktop et apres j'ai fini la partie coding
+du class nomme "post link" qui se trouve dans ma partie version mobile.
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel : 
+j'ai appris comment travail en equipe a l'aide de github flow
+
+					
+												le 17/12/2021
+j'ai finalise la section footer version mobile et desktop qui est pour ma part 
+j'ai egalement code la page login de la partie desktop 
+et le week-end je travaillerai sur accessibilite et validation de w3c et alors j'en aurai fini ma partie 
+sur le site web
+
+
+
+
 
 Respectueusement,
 
