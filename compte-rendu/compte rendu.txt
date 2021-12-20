@@ -133,7 +133,21 @@ j'ai egalement code la page login de la partie desktop
 et le week-end je travaillerai sur accessibilite et validation de w3c et alors j'en aurai fini ma partie 
 sur le site web
 
+												le 20/12/2021
 
+1 - Qu’est-ce qu’on a fait :
+
+On a terminé le projet nous avons essayé de travailler sur 'refactoring' pour laisser le code propre et pour réduire les lignes 
+qui se sont pas fonctionnelle et vers la fin nous avons éliminer 210 lignes de css sans conflit . Après nous avons passé un quizz sur le sprint 1,
+qui regroupe tous dès le début jusqu'à la fin "Git , github , github flow , comment fonctionne le web , html et css .
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+
+J'ai appris à travailler en équipe et même de deviser les tâches sans problèmes et même si il'ya un problème on va faire un vote
+J'ai appris aussi de travailler avec github flow.
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel : 
+je puisse appliquer ça avec n'importe quel equipe avec git flow sans problème.
 
 
 
