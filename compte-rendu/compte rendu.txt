@@ -149,6 +149,64 @@ J'ai appris aussi de travailler avec github flow.
 3 - Comment on va utiliser ce qu’on a appris dans un contexte réel : 
 je puisse appliquer ça avec n'importe quel equipe avec git flow sans problème.
 
+												le 21/12/2021
+1 - Qu’est-ce qu’on a fait :
+Nous avons eu une seance avec Asmaa "cme",
+Apres en a fait un presentation sur flexBox par Aymen .
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+une présentation personnel pour chaque apprenant du classe.
+conception de site web a l'aide du flexbox
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel :
+comment réalisé un projet web a l'aide du flexbox
+
+												le 22/12/2021
+1 - Qu’est-ce qu’on a fait :
+Debriefing
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+Debriefing du brief Conception Intégration d'une page d'accueil, d'inscription et de connexion pour 
+les invitations en mode squad.
+
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel :
+Comment faire une soutenance en mode squad .
+
+												le 23/12/2021
+1 - Qu’est-ce qu’on a fait :
+Désigner les chart avec un outils d'Adobe
+Discussion en squad sur le projet de restaurant YouCode.
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+Désigner les chart graphiques dans un outils Adobe xd  pour les règles du Classe , la demonstration du 
+"Comment fonctionne le Web" , l'arbre de compétences.
+discussion en mode squad pour faire une conception du projet restaurant YouCode.
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel :
+Comment utilisé l'outil Illustrateur et Photoshop de Adobe pour désigner une chart graphique.
+
+												le 24/12/2021
+1 - Qu’est-ce qu’on a fait :
+Présentation du FlexBox et Grid en CSS.
+Conception du projet de Restaurant YouCode.
+
+2 - Qu’est-ce qu’on a appris à travers ce qu’on a fait : 
+la diffirence entre flexbox et grid .
+les propriété de grid et les propriété de flexbox.
+la valeur par défaut de la propriété Flexbox.
+
+3 - Comment on va utiliser ce qu’on a appris dans un contexte réel :
+Comment réalisé un site web avec l'utilisation du flexBox et grid. 
+et comment choisi la bonne pratique entre elles.
+
+
+
+
+
+
+
+
 
 
 Respectueusement,
